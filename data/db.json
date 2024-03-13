@@ -1,0 +1,39 @@
+{
+    "products" : [{
+      
+        "id" : 10001,
+        "name" : "eBook",
+        "price" :  29,
+        "in_stock" :false
+    },
+    {
+      
+        "id" : 10002,
+        "name" : "tBook",
+        "price" :  19,
+        "in_stock" :true
+    },
+    {
+      
+        "id" : 10003,
+        "name" : "passBook",
+        "price" :  9,
+        "in_stock" :true
+    },
+    {
+      
+        "id" : 10004,
+        "name" : "eBook",
+        "price" :  99,
+        "in_stock" :true
+    },
+    {
+      
+        "id" : 10005,
+        "name" : "tabBook",
+        "price" :  299,
+        "in_stock" :true
+    }
+]
+    
+}
